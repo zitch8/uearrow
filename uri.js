@@ -1,8 +1,8 @@
 function generateDeepLink() {
-    const host = "uearrow.com";
-    const scheme = "http";
+    const host = "zitch8.github.io";
+    const scheme = "https";
 
-    const uri = `https://uearrow.com/`;
+    const uri = `https://zitch8.github.io/uearrow/`;
     return uri;
 }
 
